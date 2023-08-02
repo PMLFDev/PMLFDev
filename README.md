@@ -1,4 +1,3 @@
-> http://localhost:8080/lfponce/index.html
 
 # Hola mi nombre es **Luis Ponce**
 ## Expandiendo el conociemiento en el area de programacion para ser cada vez **mejor**
